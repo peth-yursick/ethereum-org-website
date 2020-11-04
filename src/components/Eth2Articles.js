@@ -39,28 +39,29 @@ const dannyArticles = [
 
 const benArticles = [
   {
+    title: "What’s New in Eth2 #55",
+    description: "31 October 2020",
+    link:
+      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_201031",
+  },
+  {
+    title: "What’s New in Eth2 #54",
+    description: "18 October 2020",
+    link:
+      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_201018",
+  },
+  {
+    title: "What’s New in Eth2 #53",
+    description: "02 October 2020",
+    link:
+      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_201002",
+  },
+
+  {
     title: "What’s New in Eth2 #52",
     description: "19 September 2020",
     link:
       "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200919",
-  },
-  {
-    title: "What’s New in Eth2 #51",
-    description: "5 September 2020",
-    link:
-      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200905",
-  },
-  {
-    title: "What’s New in Eth2 #50: Medalla Meltdown redux",
-    description: "22 August 2020",
-    link:
-      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200822",
-  },
-  {
-    title: "What’s New in Eth2 #49: Medalla meltdown special edition",
-    description: "17 August 2020",
-    link:
-      "https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200817",
   },
 ]
 
